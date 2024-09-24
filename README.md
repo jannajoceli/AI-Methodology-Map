@@ -1,10 +1,7 @@
 # AI Methodology Map
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10475202.svg)](https://doi.org/10.5281/zenodo.10475201) [![Static Badge](https://img.shields.io/badge/Project_license-CC_BY_SA_4.0-orange)][cc-by-sa] [![Static Badge](https://img.shields.io/badge/Code_license-MIT-green)](https://mit-license.org/)
 
-
-
-
-Project Description
+The AI Methodology Map is a pedagogical resource (interactive toolkit and teaching material) and theoretical framework designed to structure, visually represent, and explore Generative AI (GenAI) web-based applications for digital methods-led research. The map is a conceptual, empirical and interactive structure that organises knowledge and methodological frameworks for engaging with GenAI. The map is developed for implementation in workshops or AI sprints, allowing anyone to independently repeat the procedures without needing mediators. Individuals can use the map's essential theoretical points as a guide to engage with GenAI and take advantage of the external teaching resources.
 
 ## Bugs & Issues
 
