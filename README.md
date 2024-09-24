@@ -3,6 +3,10 @@
 
 The AI Methodology Map is a pedagogical resource (interactive toolkit and teaching material) and theoretical framework designed to structure, visually represent, and explore Generative AI (GenAI) web-based applications for digital methods-led research. The map is a conceptual, empirical and interactive structure that organises knowledge and methodological frameworks for engaging with GenAI. The map is developed for implementation in workshops or AI sprints, allowing anyone to independently repeat the procedures without needing mediators. Individuals can use the map's essential theoretical points as a guide to engage with GenAI and take advantage of the external teaching resources.
 
+## Useful Links
+The map's interactive version: [insert link]
+
+
 ## Bugs & Issues
 
 If you want to report an issue, you can submit it to the [issue tracker](https://github.com/zumatt/AI-Methodology-Map/issues) of this repository.
@@ -24,7 +28,7 @@ The code contained in this repository and the executable distributions are licen
 
 ## Acknowledgments
 
-We need to include any?
+The map’s applications were developed within the context of the research project ‘Designing With: A New Educational Module to Integrate Artificial Intelligence, Machine Learning and Data Visualization in Design Curricula’ (Botta et al., 2024), [INSERT LINK] and the student sample was defined according to the author's institutional affiliations and teaching agenda.
 
 ## Cite the project
 ```
