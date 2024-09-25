@@ -28,20 +28,13 @@ The code contained in this repository and the executable distributions are licen
 
 ## Acknowledgments
 
-The map’s applications were developed within the context of the research project [Designing With: A New Educational Module to Integrate Artificial Intelligence, Machine Learning and Data Visualization in Design Curricula (Botta et al., 2024)](https://designingwithai.ch/about). We want to thank the project team for their dedication and contributions throughout the development of this work. A special thank you to all the students who participated in the workshop—your engagement and insights were invaluable. We also wish to acknowledge the [Generative Methods Conference](https://www.aau.dk/conference-generative-methods-e78062), [songfied abstracts here](https://aau-generative-methods.vercel.app/) where we first introduced the results of the AI Methodology Map.
+The map’s applications were developed within the context of the research project [Designing With: A New Educational Module to Integrate Artificial Intelligence, Machine Learning and Data Visualization in Design Curricula (Botta et al., 2024)](https://designingwithai.ch/about). We want to thank the project team for their dedication and contributions throughout the development of this work. A special thank you to all the students who participated in the workshop—your engagement and insights were invaluable. We also wish to acknowledge the [Generative Methods Conference](https://www.aau.dk/conference-generative-methods-e78062), [songfied abstracts here](https://aau-generative-methods.vercel.app/) where [we first introduced](https://zenodo.org/records/10475202) the results of the AI Methodology Map.
 
 ## Cite the project
 ```
-Article:
 Omena, J.J., Autuori, A., Leite, E., Subet, M., &  Botta, M. (forthcoming). AI Methodology Map. 
 Practical and Theoretical Approach to Engage with GenAI for Digital Methods-led Research. _Sociologica._
 
-Conference presentation:
-Omena, J.J., Botta, M., Autuori, A., Leite, E., Subet, M., & Terenghi, G.
-(2023, dicembre 9).
-AI Methodology Map. Generative Methods — AI as Collaborator and Companion
-in the Social Sciences and Humanities, Aalborg University.
-https://doi.org/10.5281/zenodo.10475202
 ```
 
 
