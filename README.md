@@ -28,7 +28,7 @@ The code contained in this repository and the executable distributions are licen
 
 ## Acknowledgments
 
-The map’s applications were developed within the context of the research project ‘Designing With: A New Educational Module to Integrate Artificial Intelligence, Machine Learning and Data Visualization in Design Curricula’ (Botta et al., 2024), [INSERT LINK] and the student sample was defined according to the author's institutional affiliations and teaching agenda.
+The map’s applications were developed within the context of the research project [Designing With: A New Educational Module to Integrate Artificial Intelligence, Machine Learning and Data Visualization in Design Curricula (Botta et al., 2024)] (https://designingwithai.ch/), following also a research-led teaching approach.
 
 ## Cite the project
 ```
