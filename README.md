@@ -19,7 +19,8 @@ If you want to report an issue, you can submit it to the [issue tracker](https:/
 
 ## Usage tutorial
 
-How a user need to use the interactive tool?
+How a user need to use the interactive tool? **[I'm working on this section]**
+
 
 ## License
 
