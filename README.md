@@ -4,7 +4,10 @@
 The AI Methodology Map is a pedagogical resource (interactive toolkit and teaching material) and theoretical framework designed to structure, visually represent, and explore Generative AI (GenAI) web-based applications for digital methods-led research. The map is a conceptual, empirical and interactive structure that organises knowledge and methodological frameworks for engaging with GenAI. The map is developed for implementation in workshops or AI sprints, allowing anyone to independently repeat the procedures without needing mediators. Individuals can use the map's essential theoretical points as a guide to engage with GenAI and take advantage of the external teaching resources.
 
 ## Useful Links
-The map's interactive version: [insert link]
+The map's interactive version: [insert link](...)
+GenAI apps interactive visualisation: [insert link](...)
+Teaching resources: [insert link](...)
+[Generative Methods Conference presentation](https://zenodo.org/records/10475202)
 
 
 ## Bugs & Issues
@@ -28,7 +31,7 @@ The code contained in this repository and the executable distributions are licen
 
 ## Acknowledgments
 
-The map’s applications were developed within the context of the research project [Designing With: A New Educational Module to Integrate Artificial Intelligence, Machine Learning and Data Visualization in Design Curricula (Botta et al., 2024)](https://designingwithai.ch/about). We want to thank the project team for their dedication and contributions throughout the development of this work. A special thank you to all the students who participated in the workshop—your engagement and insights were invaluable. We also wish to acknowledge the [Generative Methods Conference](https://www.aau.dk/conference-generative-methods-e78062), [songfied abstracts here](https://aau-generative-methods.vercel.app/) where [we first introduced](https://zenodo.org/records/10475202) the results of the AI Methodology Map.
+The map’s applications were developed within the context of the research project [Designing With: A New Educational Module to Integrate Artificial Intelligence, Machine Learning and Data Visualization in Design Curricula (Botta et al., 2024)](https://designingwithai.ch/about). We want to thank the project team for their dedication and contributions throughout the development of this work. A special thank you to all the students who participated in the workshops—your engagement and insights were invaluable. We also wish to acknowledge the [Generative Methods Conference](https://www.aau.dk/conference-generative-methods-e78062), [songified abstracts here](https://aau-generative-methods.vercel.app/) where [we first introduced](https://zenodo.org/records/10475202) the results of the AI Methodology Map.
 
 ## Cite the project
 ```
