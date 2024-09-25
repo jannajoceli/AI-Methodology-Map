@@ -5,8 +5,11 @@ The AI Methodology Map is a pedagogical resource (interactive toolkit and teachi
 
 ## Useful Links
 The map's interactive version: [insert link](...)
+
 GenAI apps interactive visualisation: [insert link](...)
+
 Teaching resources: [insert link](...)
+
 [Generative Methods Conference presentation](https://zenodo.org/records/10475202)
 
 
