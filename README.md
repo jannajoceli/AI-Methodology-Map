@@ -4,7 +4,7 @@
 The AI Methodology Map is a pedagogical resource (interactive toolkit and teaching material) and theoretical framework designed to structure, visually represent, and explore Generative AI (GenAI) web-based applications for digital methods-led research. The map is a conceptual, empirical and interactive structure that organises knowledge and methodological frameworks for engaging with GenAI. The map is developed for implementation in workshops or AI sprints, allowing anyone to independently repeat the procedures without needing mediators. Individuals can use the map's essential theoretical points as a guide to engage with GenAI and take advantage of the external teaching resources.
 
 ## Useful Links
-[The Map](genmap.designingwithai.ch/map)
+[The Map](https://genmap.designingwithai.ch/map)
 
 GenAI apps interactive visualisation: [insert link](...)
 
