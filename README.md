@@ -17,7 +17,7 @@ The Map advances [a technicity perspective](https://www.elgaronline.com/display/
 
 ### Method 1: Making room for generative AI
 
-You will explore generative methods by 1) navigating an [interactive visualisation](https://genmap.designingwithai.ch)that gathers information about several GenAI proprieatry applications and open-source-models,  2) while responding to crucial questions about GenAI apps and associated large language models (LLMs):
+You will explore generative methods by 1) navigating an [interactive visualisation](https://genmap.designingwithai.ch) that gathers information about several GenAI proprieatry applications and open-source-models,  2) while responding to crucial questions about GenAI apps and associated large language models (LLMs):
 
 **Questions about the generative methods in use**
 What generative method is used, and what LLM is operating? 
@@ -34,7 +34,7 @@ What inputs are required? What kind of output does one get?
 **Questions about required skills**
 What is required to use this app or open-source code? 
 
-3)The explorations and findings are to be documented, such as in [teaching resources for documenting the map exploration](https://genmap.designingwithai.ch/teaching-resources), which allows for and empowers collective discussions among all involved.
+3)The explorations and findings are to be visually documented, such as in [teaching resources for documenting the map exploration](https://genmap.designingwithai.ch/teaching-resources), which allows for and empowers collective discussions among all involved.
 
 ### Method 2: Repurposing generative AI
 
@@ -47,13 +47,19 @@ What is the GenAI app, model and/or interface mediating your research? Or servin
 What is your research aim? 
 What prompt(s)? Why?
 
+The explorations and findings are to be visually documented, such as in [teaching resources for documenting the map exploration](https://genmap.designingwithai.ch/teaching-resources).
 
 ### Method 3: Designing a digital methods project with generative AI
 
+This method allows experimental and exploratory analysis of GenAI models, outputs, and interfaces. You will organise a workflow responsive to Method 2. The following steps and decisions will support you in designing a digital method project with GenAI outputs and/or interfaces.
+
+What techniques and methods support analysing and visualising GenAI outputs, models or interfaces? (please check the How to Cite section for network vision methods to repurpose visual-generate content).
+
+The explorations and findings are to be visually documented, such as in [teaching resources for documenting the map exploration](https://genmap.designingwithai.ch/teaching-resources).
 
 ## Reproducibility
 
-Regarding reproducibility, although the map is developed for implementation in workshops or AI sprints, it allows anyone to independently repeat the procedures without needing mediators. Individuals can use the map's essential theoretical points as a guide to engage with GenAI and take advantage of the external teaching resources.
+The map is developed for implementation in workshops or AI sprints. It allows anyone to independently repeat the procedures without needing mediators. The map's essential theoretical points can guide engaging with and critically reflecting on GenAI and practically following its interconnected methods to advance digital methods research. It is up to you whether to follow these possibilities separately or embrace them in a combination mode 👩🏻‍💻🤓✨❣️
 
 ## Useful Links
 [AI Methodology Map](https://genmap.designingwithai.ch/map)
