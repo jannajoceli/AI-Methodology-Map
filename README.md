@@ -17,6 +17,28 @@ The Map advances [a technicity perspective](https://www.elgaronline.com/display/
 
 ### Method 1: Making room for generative AI
 
+You will explore generative methods by 1) navigating an [interactive visualisation](https://genmap.designingwithai.ch)that gathers information about several GenAI proprieatry applications and open-source-models,  2) while responding to crucial questions about GenAI apps and associated large language models (LLMs):
+
+**Questions about the generative methods in use**
+What generative method is used, and what LLM is operating? 
+**Questions about the API documentation**
+Is API documentation available? What are its affordances and limitations? What can we learn from that?
+
+**Questions about the LLM and associated training dataset**
+What is the model in use? Is it an open-source or proprietary model? Who developed it? What type of input is required? If possible, adjust the model temperature; what does it mean? Can we identify the dataset used to train the model? What are the limitations or potential biases one might encounter in the LLM currently in use? 
+
+**Questions about the necessary input to generate new content (output)**
+What inputs are required? What kind of output does one get? 
+
+**Questions about required skills**
+What is required to use this app or open-source code? 
+
+3)The explorations and findings are to be documented, such as in [teaching resources for documenting the map exploration](https://genmap.designingwithai.ch/teaching-resources), which allows for and empowers collective discussions among all involved.
+
+### Method 2: Repurposing generative AI
+
+### Method 3: Designing a digital methods project with generative AI
+
 
 ## Reproducibility
 
