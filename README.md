@@ -21,6 +21,7 @@ You will explore generative methods by 1) navigating an [interactive visualisati
 
 **Questions about the generative methods in use**
 What generative method is used, and what LLM is operating? 
+
 **Questions about the API documentation**
 Is API documentation available? What are its affordances and limitations? What can we learn from that?
 
@@ -37,14 +38,22 @@ What is required to use this app or open-source code?
 
 ### Method 2: Repurposing generative AI
 
+You will engage with and use GenAI content, interfaces and models as means of research. This method's rationale moves from medium specificity to the definition of the research aim accordingly. You will define and document your decisions based on what you have learned from Method 1.
+
+**Define and document**
+What is the output data to reach? (e.g. text, image, audio) Why?
+Which input will you be employing to generate new content? Why?
+What is the GenAI app, model and/or interface mediating your research? Or serving as an object of critique?
+What is your research aim? 
+What prompt(s)? Why?
+
+
 ### Method 3: Designing a digital methods project with generative AI
 
 
 ## Reproducibility
 
 Regarding reproducibility, although the map is developed for implementation in workshops or AI sprints, it allows anyone to independently repeat the procedures without needing mediators. Individuals can use the map's essential theoretical points as a guide to engage with GenAI and take advantage of the external teaching resources.
-
-
 
 ## Useful Links
 [AI Methodology Map](https://genmap.designingwithai.ch/map)
