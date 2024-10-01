@@ -5,9 +5,24 @@
 
 The AI Methodology Map is a pedagogical resource (interactive toolkit and teaching material) and theoretical framework designed to structure, visually represent, and explore Generative AI (GenAI) web-based applications for digital methods-led research. The map is a conceptual, empirical and interactive structure that organises knowledge and methodological frameworks for engaging with GenAI. The map is developed for implementation in workshops or AI sprints, allowing anyone to independently repeat the procedures without needing mediators. Individuals can use the map's essential theoretical points as a guide to engage with GenAI and take advantage of the external teaching resources.
 
+## Purpose and Prerequisites
+
+Rather than serving as a digital methods protocol or recipe (what and how it was done), the map focuses on "what to look at." It elicits ways of knowing GenAI through technical, empirical, and conceptual viewpoints. Through practical engagement with GenAI, the expected results are geared toward developing a specific mindset required to advance digital methods research. 
+
+The map presumes that users possess a basic understanding of generative methods, such as what generative AI is and its potential, limitations, and challenges.
+
 ## How to navigate the map?
 
-How a user need to use the interactive tool? **[I'm working on this section]**
+The Map advances [a technicity perspective](https://www.elgaronline.com/display/book/9781800374263/b-9781800374263.technicity.mediums.omena.xml) as a practical and theoretical approach to engage with GenAI for digital methods research, which is operationalised through five educational entry points (look at the Map, left side) that cultivates an awareness component about GenAI and its potential for and as research methods.
+
+### Method 1: Making room for generative AI
+
+
+## Reproducibility
+
+Regarding reproducibility, although the map is developed for implementation in workshops or AI sprints, it allows anyone to independently repeat the procedures without needing mediators. Individuals can use the map's essential theoretical points as a guide to engage with GenAI and take advantage of the external teaching resources.
+
+
 
 ## Useful Links
 [AI Methodology Map](https://genmap.designingwithai.ch/map)
